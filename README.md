@@ -1,11 +1,11 @@
 # Java-raport-3
 GUI using Swing
 
-Program for Silesian University of Technology in Gliwice, on the Java's lab.
+Program for Silesian University of Technology in Gliwice, created for Java's lab.
 
-Program to keep information about players in the football team.
-There are few simple operation: add player, delete him and show information about the team. 
-It's not possible that there are two players on the same first name and surname. 
+Program to keep informations about players in the football team.
+There are a few simple operations: add player to the database, remove him from the database and show informations about the team. 
+It's impossible to add another player with the same name and surname as one already added.
 
 Raport 3 have to contain:
 - GUI using Swing
@@ -14,4 +14,4 @@ Raport 3 have to contain:
 - JTable or JTree
 - JSplitPane or JTabbedPane
 - JOptionPane
-- event with main window (close, minimize, itp.)
+- handling main window events, such as close, minimize, etc.
